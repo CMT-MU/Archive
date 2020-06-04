@@ -8,13 +8,15 @@
           color: [],
           colorV2: ['color']
         },
-        packages: {'[+]': ['noerrors']}
-      },
-      chtml: {
-        matchFontHeight: false,
-        displayAlign: "left",
-        displayIndent: "2em"
-      },
+        packages: {
+          '[+]': ['noerrors'],
+          '[+]': ['braket'], // add braket package
+        },
+        chtml: {
+          matchFontHeight: false,
+          displayAlign: "left",
+          displayIndent: "2em"
+        },
       options: {
         renderActions: {
           /* add a new named action to render <script type="math/tex"> */
@@ -32,9 +34,9 @@
         }
       },
       loader: {
-        load: ['[tex]/noerrors']
+        load: ['[tex]/noerrors'],
+        load: ['[tex]/braket'] // make braket available
       }
     };
 </script>
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script"></script>
-
