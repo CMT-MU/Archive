@@ -9,6 +9,25 @@
     displayIndent: "2em",
     TeX: {
       equationNumbers: { autoNumber: "AMS" },
+    },
+    TeX:
+    {
+      Macros:
+      {
+        Div: '{\\mathrm{div}}',
+        rot: '{\\mathrm{rot}}',
+        grad: '{\\mathrm{grad}}',
+        diff: '{\\mathrm{d}}',
+        ln: '{\\mathrm{ln}}',
+        bm: ['{\\boldsymbol{#1}}',1],
+        |:'{\\middle|}',
+        bra:['{\\langle #1 |}',1],
+        ket:['{|#1 \\rangle}',1],
+        braket:['{\\langle #1 \\rangle}',1],
+        Bra:['{\\left\\langle #1 \\right|}',1],
+        Ket:['{\\left|#1 \\right\\rangle}',1],
+        Braket:['{\\left\\langle #1 \\\right\\rangle}',1]
+      }
     }
   });
 </script>
