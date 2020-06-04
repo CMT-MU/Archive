@@ -8,7 +8,7 @@ git-hub-pages
 $\cos^{2}\theta + \sin^{2}\theta = 1$
 
 # test 2
-$\cos^{2}\theta - \sin^{2}\theta = \cos 2\theta$
+$e^{i \x} = \cos x + i \sin x$
 
 # test 3
-$int dx \psi^{*}(\mathbf{r}) \psi(\mathbf{r})$
+$int dx \psi^{*}(\mathbf{r}) \psi(\mathbf{r}) = 1$
