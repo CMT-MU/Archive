@@ -1,11 +1,9 @@
-# Condensed Matter Theory, Meiji University (https://CMT-MU.github.io)
-this is root url
+# Condensed Matter Theory, Meiji University
+https://CMT-MU.github.io
 
-# cos, sin
+# mathjax test
 $\cos^{2} x + \sin^{2} x = 1$
 
-# braket (expval)
-$\expval{A}{\Psi} $
+$\braket{\Psi} $
 
-# commutator
-$\comm{A}{B} = 0$
+$[A,B] = 0$
