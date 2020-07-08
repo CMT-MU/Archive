@@ -1,4 +1,4 @@
-# cmt.github.io
+# Condensed Matter Theory, Meiji University (https://CMT-MU.github.io)
 this is root url
 
 # cos, sin
