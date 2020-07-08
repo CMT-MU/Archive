@@ -7,9 +7,9 @@ https://CMT-MU.github.io
 
 # mathjax test
 ## 括弧の自動調整
-\[
+$$
     \pqty{\sum_{i=1}^{n} x_i y_i}^2 \le \pqty{\sum_{i=1}^{n} x_i ^2} \pqty{\sum_{i=1}^{n} y_i ^2}
-\]
+$$
 
 ## ベクトルの表記
 * $ \curl(\grad{f}) = 0 $
