@@ -1,5 +1,5 @@
 # Condensed Matter Theory, Meiji University
-https://CMT-MU.github.io
+https://CMT-MU.github.io/HP
 
 # physics package
 * https://ctan.org/pkg/physics
