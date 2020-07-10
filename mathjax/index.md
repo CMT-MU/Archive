@@ -2,9 +2,9 @@
 
 
 ### 括弧の自動調整
-$$
+\[
 \pqty{\sum_{i=1}^{n} x _ i y _ i}^2 \le \pqty{\sum_{i=1}^{n} x _ i ^2} \pqty{\sum_{i=1}^{n} y _ i ^2}
-$$
+\]
 
 ### ベクトルの表記
 - $ \curl(\grad{f}) = 0 $
