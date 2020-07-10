@@ -12,13 +12,13 @@
 - $ \div\grad = \laplacian$
 
 ### 演算子ほか
-- $ \sin[2](x) + \cos[2](x) = 1 $
+- $ \sin^2(x) + \cos^2(x) = 1 $
 - $ A^2 - \tr A + \det I = O $
 - $ x = \Re z,\,y = \Im z $
 
 ### 空白とそれに続くテキスト
 - $|x| = x \qif x>0 $
-- $ \delta _{ij} = \begin{cases} 1 & \qq*{$i = j$のとき} \\ 0 & \qq*{$i \ne j$のとき} \end{cases} $
+- $ \delta _ {ij} = \begin{cases} 1 & \qq*{$i = j$のとき} \\ 0 & \qq*{$i \ne j$のとき} \end{cases} $
 
 ### 微分記号と導関数
 - $ \int y \dd{x} = \int y \dv{x}{t} \dd{t} $
