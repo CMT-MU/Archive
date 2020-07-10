@@ -9,4 +9,4 @@ MarkDown記法との衝突を避けるには、[MathJax と Markdown で可搬�
 - [C++ Tips](cpp)
 - [python Tips](python)
 - [keynote Tips](keynote)
-- [MathJax](mathjax)
+- [MathJax Tips](mathjax)
