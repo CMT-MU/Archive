@@ -1,4 +1,4 @@
-# VSCodeとの連携
+# VSCodeとの連携 2020.08.12
 ## 設定
 VSCodeの設定ファイルに以下を追加
 - settings.json
